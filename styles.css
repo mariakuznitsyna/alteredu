@@ -1,0 +1,98 @@
+
+.logo {
+
+	width: 538px;
+	height: 60px;
+
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 60px;
+	/* identical to box height */
+
+	display: inline-block;
+	align-items: center;
+
+	color: #FFFFFF;
+}
+
+.head {
+	background: #FDBD59;
+}
+
+.headings {
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 60px;
+	display: flex;
+	align-items: center;
+
+	color: #000000;
+
+}
+
+p {
+	font-family: Sanchez;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 46px;
+	display: flex;
+	align-items: center;
+
+	color: #000000;
+
+}
+
+.button {
+	font-family: League Spartan;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 45px;
+	/* identical to box height */
+
+	text-align: center;
+	padding: 10px;
+
+	color: #FFFFFF;
+
+	width: 281px;
+	height: 80px;
+
+	background: #000000;
+	border-radius: 30px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+.navigation {
+	font-family: Sanchez;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	line-height: 46px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.articles {
+	background: #D5D5D5
+}
+
+img {
+	max-width: 100%;
+	padding: 40px;
+	position: center;
+	margin-top: 20px;
+}
+
+
